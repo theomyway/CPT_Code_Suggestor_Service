@@ -4,5 +4,6 @@ openai
 pytorch
 requests
 flask
+gunicorn
 beautifulsoup4
 transformers
