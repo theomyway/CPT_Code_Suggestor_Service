@@ -347,6 +347,11 @@ model = GPT2LMHeadModel.from_pretrained("gpt2")
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 
 
+@app.route('/')
+def home():
+    return 'CPT CODE SUGGESTOR SERVICE - MUHAMMAD UMAR KHAN'
+
+
 @app.route('/predict_cpt_code', methods=['POST'])
 def predict_cpt_code():
     try:
@@ -366,4 +371,4 @@ def predict_cpt_code():
 
 
 if __name__ == '__main__':
-    app.run(port=5000)
+    app.run(host='0.0.0.0', port=5000)
