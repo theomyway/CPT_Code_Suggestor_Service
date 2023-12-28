@@ -1,6 +1,7 @@
 google
 pandas
 openai
+pytorch
 requests
 flask
 beautifulsoup4
