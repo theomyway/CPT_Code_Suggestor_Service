@@ -1,0 +1,2340 @@
+﻿Code,Disease
+70010,A Contrast xray of brain   
+70015,A Contrast xray of brain   
+70015, A Contrast xray of brain   
+70015,TC A Contrast xray of brain   
+70030,A Xray eye for foreign body   
+70030, A Xray eye for foreign body   
+70030,TC A Xray eye for foreign body   
+70100,A Xray exam of jaw views   
+70100, A Xray exam of jaw views   
+70100,TC A Xray exam of jaw views   
+70110,A Xray exam of jaw  views   
+70110, A Xray exam of jaw  views   
+70110,TC A Xray exam of jaw  views   
+70120,A Xray exam of mastoids   
+70120, A Xray exam of mastoids   
+70120,TC A Xray exam of mastoids   
+70130,A Xray exam of mastoids   
+70130, A Xray exam of mastoids   
+70130,TC A Xray exam of mastoids   
+70134,A Xray exam of middle ear   
+70134, A Xray exam of middle ear   
+70134,TC A Xray exam of middle ear   
+70140,A Xray exam of facial bones   
+70140, A Xray exam of facial bones   
+70140,TC A Xray exam of facial bones   
+70150,A Xray exam of facial bones   
+70150, A Xray exam of facial bones   
+70150,TC A Xray exam of facial bones   
+70160,A Xray exam of nasal bones   
+70160, A Xray exam of nasal bones   
+70160,TC A Xray exam of nasal bones   
+70170, A Xray exam of tear duct   
+70170,C Xray exam of tear duct  
+70170,TC C Xray exam of tear duct  
+70190,A Xray exam of eye sockets   
+70190, A Xray exam of eye sockets   
+70190,TC A Xray exam of eye sockets   
+70200,A Xray exam of eye sockets   
+70200, A Xray exam of eye sockets   
+70200,TC A Xray exam of eye sockets   
+70210,A Xray exam of sinuses   
+70210, A Xray exam of sinuses   
+70210,TC A Xray exam of sinuses   
+70220,A Xray exam of sinuses   
+Page 1,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+70220, A Xray exam of sinuses   
+70220,TC A Xray exam of sinuses   
+70240,A Xray exam pituitary saddle   
+70240, A Xray exam pituitary saddle   
+70240,TC A Xray exam pituitary saddle   
+70250,A Xray exam of skull   
+70250, A Xray exam of skull   
+70250,TC A Xray exam of skull   
+70260,A Xray exam of skull   
+70260, A Xray exam of skull   
+70260,TC A Xray exam of skull   
+70300,A Xray exam of teeth   
+70300, A Xray exam of teeth   
+70300,TC A Xray exam of teeth   
+70310,A Xray exam of teeth   
+70310, A Xray exam of teeth   
+70310,TC A Xray exam of teeth   
+70320,A Full mouth xray of teeth   
+70320, A Full mouth xray of teeth   
+70320,TC A Full mouth xray of teeth   
+70328,A Xray exam of jaw joint   
+70328, A Xray exam of jaw joint   
+70328,TC A Xray exam of jaw joint   
+70330,A Xray exam of jaw joints   
+70330, A Xray exam of jaw joints   
+70330,TC A Xray exam of jaw joints   
+70332,A Xray exam of jaw joint   
+70332, A Xray exam of jaw joint   
+70332,TC A Xray exam of jaw joint   
+70336,A Magnetic image jaw joint   
+70336, A Magnetic image jaw joint   
+70336,TC A Magnetic image jaw joint   
+70350,A Xray head for orthodontia   
+70350, A Xray head for orthodontia   
+70350,TC A Xray head for orthodontia   
+70355,A Panoramic xray of jaws   
+70355, A Panoramic xray of jaws   
+70355,TC A Panoramic xray of jaws   
+70360,A Xray exam of neck   
+70360, A Xray exam of neck   
+70360,TC A Xray exam of neck   
+70370,A Throat xray  fluoroscopy   
+70370, A Throat xray  fluoroscopy   
+70370,TC A Throat xray  fluoroscopy   
+Page 2,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+70371,A Speech evaluation complex   
+70371, A Speech evaluation complex   
+70371,TC A Speech evaluation complex   
+70380,A Xray exam of salivary gland   
+70380, A Xray exam of salivary gland   
+70380,TC A Xray exam of salivary gland   
+70390,A Xray exam of salivary duct   
+70390, A Xray exam of salivary duct   
+70390,TC A Xray exam of salivary duct   
+70450,A Ct headbrain wo dye   
+70450, A Ct headbrain wo dye   
+70450,TC A Ct headbrain wo dye   
+70460,A Ct headbrain wdye   
+70460, A Ct headbrain wdye   
+70460,TC A Ct headbrain wdye   
+70470,A Ct headbrain wo  wdye   
+70470, A Ct headbrain wo  wdye   
+70470,TC A Ct headbrain wo  wdye   
+70480,A Ct orbitearfossa wo dye   
+70480, A Ct orbitearfossa wo dye   
+70480,TC A Ct orbitearfossa wo dye   
+70481,A Ct orbitearfossa wdye   
+70481, A Ct orbitearfossa wdye   
+70481,TC A Ct orbitearfossa wdye   
+70482,A Ct orbitearfossa wowdye   
+70482, A Ct orbitearfossa wowdye   
+70482,TC A Ct orbitearfossa wowdye   
+70486,A Ct maxillofacial wo dye   
+70486, A Ct maxillofacial wo dye   
+70486,TC A Ct maxillofacial wo dye   
+70487,A Ct maxillofacial wdye   
+70487, A Ct maxillofacial wdye   
+70487,TC A Ct maxillofacial wdye   
+70488,A Ct maxillofacial wo  wdye   
+70488, A Ct maxillofacial wo  wdye   
+70488,TC A Ct maxillofacial wo  wdye   
+70490,A Ct soft tissue neck wo dye   
+70490, A Ct soft tissue neck wo dye   
+70490,TC A Ct soft tissue neck wo dye   
+70491,A Ct soft tissue neck wdye   
+70491, A Ct soft tissue neck wdye   
+70491,TC A Ct soft tissue neck wdye   
+70492,A Ct sft tsue nck wo  wdye   
+70492, A Ct sft tsue nck wo  wdye   
+Page 3,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+70492,TC A Ct sft tsue nck wo  wdye   
+70496,A Ct angiography head   
+70496, A Ct angiography head   
+70496,TC A Ct angiography head   
+70498,A Ct angiography neck   
+70498, A Ct angiography neck   
+70498,TC A Ct angiography neck   
+70540,A Mri orbitfaceneck wo dye   
+70540, A Mri orbitfaceneck wo dye   
+70540,TC A Mri orbitfaceneck wo dye   
+70542,A Mri orbitfaceneck wdye   
+70542, A Mri orbitfaceneck wdye   
+70542,TC A Mri orbitfaceneck wdye   
+70543,A Mri orbtfacnck wo wdye   
+70543, A Mri orbtfacnck wo wdye   
+70543,TC A Mri orbtfacnck wo wdye   
+70544,A Mr angiography head wo dye   
+70544, A Mr angiography head wo dye   
+70544,TC A Mr angiography head wo dye   
+70545,A Mr angiography head wdye   
+70545, A Mr angiography head wdye   
+70545,TC A Mr angiography head wdye   
+70546,A Mr angiograph head wowdye   
+70546, A Mr angiograph head wowdye   
+70546,TC A Mr angiograph head wowdye   
+70547,A Mr angiography neck wo dye   
+70547, A Mr angiography neck wo dye   
+70547,TC A Mr angiography neck wo dye   
+70548,A Mr angiography neck wdye   
+70548, A Mr angiography neck wdye   
+70548,TC A Mr angiography neck wdye   
+70549,A Mr angiograph neck wowdye   
+70549, A Mr angiograph neck wowdye   
+70549,TC A Mr angiograph neck wowdye   
+70551,A Mri brain stem wo dye   
+70551, A Mri brain stem wo dye   
+70551,TC A Mri brain stem wo dye   
+70552,A Mri brain stem wdye   
+70552, A Mri brain stem wdye   
+70552,TC A Mri brain stem wdye   
+70553,A Mri brain stem wo  wdye   
+70553, A Mri brain stem wo  wdye   
+70553,TC A Mri brain stem wo  wdye   
+70554,A Fmri brain by tech   
+Page 4,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+70554, A Fmri brain by tech   
+70554,TC A Fmri brain by tech   
+70555, A Fmri brain by physpsych   
+70555,C Fmri brain by physpsych  
+70555,TC C Fmri brain by physpsych  
+70557, A Mri brain wo dye   
+70557,C Mri brain wo dye  
+70557,TC C Mri brain wo dye  
+70558, A Mri brain wdye   
+70558,C Mri brain wdye  
+70558,TC C Mri brain wdye  
+70559, A Mri brain wo  wdye   
+70559,C Mri brain wo  wdye  
+70559,TC C Mri brain wo  wdye  
+71045,A Xray exam chest  view   
+71045, A Xray exam chest  view   
+71045,TC A Xray exam chest  view   
+71046,A Xray exam chest  views   
+71046, A Xray exam chest  views   
+71046,TC A Xray exam chest  views   
+71047,A Xray exam chest  views   
+71047, A Xray exam chest  views   
+71047,TC A Xray exam chest  views   
+71048,A Xray exam chest  views   
+71048, A Xray exam chest  views   
+71048,TC A Xray exam chest  views   
+71100,A Xray exam ribs uni  views   
+71100, A Xray exam ribs uni  views   
+71100,TC A Xray exam ribs uni  views   
+71101,A Xray exam unilat ribschest   
+71101, A Xray exam unilat ribschest   
+71101,TC A Xray exam unilat ribschest   
+71110,A Xray exam ribs bil  views   
+71110, A Xray exam ribs bil  views   
+71110,TC A Xray exam ribs bil  views   
+71111,A Xray exam ribschest vws   
+71111, A Xray exam ribschest vws   
+71111,TC A Xray exam ribschest vws   
+71120,A Xray exam breastbone vws   
+71120, A Xray exam breastbone vws   
+71120,TC A Xray exam breastbone vws   
+71130,A Xray strenoclavic jt vws   
+71130, A Xray strenoclavic jt vws   
+71130,TC A Xray strenoclavic jt vws   
+Page 5,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+71250,A Ct thorax dx c   
+71250, A Ct thorax dx c   
+71250,TC A Ct thorax dx c   
+71260,A Ct thorax dx c   
+71260, A Ct thorax dx c   
+71260,TC A Ct thorax dx c   
+71270,A Ct thorax dx cc   
+71270, A Ct thorax dx cc   
+71270,TC A Ct thorax dx cc   
+71271,A Ct thorax lung cancer scr c   
+71271, A Ct thorax lung cancer scr c   
+71271,TC A Ct thorax lung cancer scr c   
+71275,A Ct angiography chest   
+71275, A Ct angiography chest   
+71275,TC A Ct angiography chest   
+71550,A Mri chest wo dye   
+71550, A Mri chest wo dye   
+71550,TC A Mri chest wo dye   
+71551,A Mri chest wdye   
+71551, A Mri chest wdye   
+71551,TC A Mri chest wdye   
+71552,A Mri chest wo  wdye   
+71552, A Mri chest wo  wdye   
+71552,TC A Mri chest wo  wdye   
+71555,R Mri angio chest w or wo dye   
+71555, R Mri angio chest w or wo dye   
+71555,TC R Mri angio chest w or wo dye   
+72020,A Xray exam of spine  view   
+72020, A Xray exam of spine  view   
+72020,TC A Xray exam of spine  view   
+72040,A Xray exam neck spine  vw   
+72040, A Xray exam neck spine  vw   
+72040,TC A Xray exam neck spine  vw   
+72050,A Xray exam neck spine vws   
+72050, A Xray exam neck spine vws   
+72050,TC A Xray exam neck spine vws   
+72052,A Xray exam neck spine vws   
+72052, A Xray exam neck spine vws   
+72052,TC A Xray exam neck spine vws   
+72070,A Xray exam thorac spine vws   
+72070, A Xray exam thorac spine vws   
+72070,TC A Xray exam thorac spine vws   
+72072,A Xray exam thorac spine vws   
+72072, A Xray exam thorac spine vws   
+Page 6,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+72072,TC A Xray exam thorac spine vws   
+72074,A Xray exam thorac spinevw   
+72074, A Xray exam thorac spinevw   
+72074,TC A Xray exam thorac spinevw   
+72080,A Xray exam thoracolmb  vw   
+72080, A Xray exam thoracolmb  vw   
+72080,TC A Xray exam thoracolmb  vw   
+72081,A Xray exam entire spi  vw   
+72081, A Xray exam entire spi  vw   
+72081,TC A Xray exam entire spi  vw   
+72082,A Xray exam entire spi  vw   
+72082, A Xray exam entire spi  vw   
+72082,TC A Xray exam entire spi  vw   
+72083,A Xray exam entire spi  vw   
+72083, A Xray exam entire spi  vw   
+72083,TC A Xray exam entire spi  vw   
+72084,A Xray exam entire spi  vw   
+72084, A Xray exam entire spi  vw   
+72084,TC A Xray exam entire spi  vw   
+72100,A Xray exam ls spine  vws   
+72100, A Xray exam ls spine  vws   
+72100,TC A Xray exam ls spine  vws   
+72110,A Xray exam l spine vws   
+72110, A Xray exam l spine vws   
+72110,TC A Xray exam l spine vws   
+72114,A Xray exam ls spine bending   
+72114, A Xray exam ls spine bending   
+72114,TC A Xray exam ls spine bending   
+72120,A Xray bend only ls spine   
+72120, A Xray bend only ls spine   
+72120,TC A Xray bend only ls spine   
+72125,A Ct neck spine wo dye   
+72125, A Ct neck spine wo dye   
+72125,TC A Ct neck spine wo dye   
+72126,A Ct neck spine wdye   
+72126, A Ct neck spine wdye   
+72126,TC A Ct neck spine wdye   
+72127,A Ct neck spine wo  wdye   
+72127, A Ct neck spine wo  wdye   
+72127,TC A Ct neck spine wo  wdye   
+72128,A Ct chest spine wo dye   
+72128, A Ct chest spine wo dye   
+72128,TC A Ct chest spine wo dye   
+72129,A Ct chest spine wdye   
+Page 7,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+72129, A Ct chest spine wdye   
+72129,TC A Ct chest spine wdye   
+72130,A Ct chest spine wo  wdye   
+72130, A Ct chest spine wo  wdye   
+72130,TC A Ct chest spine wo  wdye   
+72131,A Ct lumbar spine wo dye   
+72131, A Ct lumbar spine wo dye   
+72131,TC A Ct lumbar spine wo dye   
+72132,A Ct lumbar spine wdye   
+72132, A Ct lumbar spine wdye   
+72132,TC A Ct lumbar spine wdye   
+72133,A Ct lumbar spine wo  wdye   
+72133, A Ct lumbar spine wo  wdye   
+72133,TC A Ct lumbar spine wo  wdye   
+72141,A Mri neck spine wo dye   
+72141, A Mri neck spine wo dye   
+72141,TC A Mri neck spine wo dye   
+72142,A Mri neck spine wdye   
+72142, A Mri neck spine wdye   
+72142,TC A Mri neck spine wdye   
+72146,A Mri chest spine wo dye   
+72146, A Mri chest spine wo dye   
+72146,TC A Mri chest spine wo dye   
+72147,A Mri chest spine wdye   
+72147, A Mri chest spine wdye   
+72147,TC A Mri chest spine wdye   
+72148,A Mri lumbar spine wo dye   
+72148, A Mri lumbar spine wo dye   
+72148,TC A Mri lumbar spine wo dye   
+72149,A Mri lumbar spine wdye   
+72149, A Mri lumbar spine wdye   
+72149,TC A Mri lumbar spine wdye   
+72156,A Mri neck spine wo  wdye   
+72156, A Mri neck spine wo  wdye   
+72156,TC A Mri neck spine wo  wdye   
+72157,A Mri chest spine wo  wdye   
+72157, A Mri chest spine wo  wdye   
+72157,TC A Mri chest spine wo  wdye   
+72158,A Mri lumbar spine wo  wdye   
+72158, A Mri lumbar spine wo  wdye   
+72158,TC A Mri lumbar spine wo  wdye   
+72159,R Mr angio spine wowdye   
+72159, R Mr angio spine wowdye   
+72159,TC R Mr angio spine wowdye   
+Page 8,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+72170,A Xray exam of pelvis   
+72170, A Xray exam of pelvis   
+72170,TC A Xray exam of pelvis   
+72190,A Xray exam of pelvis   
+72190, A Xray exam of pelvis   
+72190,TC A Xray exam of pelvis   
+72191,A Ct angiograph pelv wowdye   
+72191, A Ct angiograph pelv wowdye   
+72191,TC A Ct angiograph pelv wowdye   
+72192,A Ct pelvis wo dye   
+72192, A Ct pelvis wo dye   
+72192,TC A Ct pelvis wo dye   
+72193,A Ct pelvis wdye   
+72193, A Ct pelvis wdye   
+72193,TC A Ct pelvis wdye   
+72194,A Ct pelvis wo  wdye   
+72194, A Ct pelvis wo  wdye   
+72194,TC A Ct pelvis wo  wdye   
+72195,A Mri pelvis wo dye   
+72195, A Mri pelvis wo dye   
+72195,TC A Mri pelvis wo dye   
+72196,A Mri pelvis wdye   
+72196, A Mri pelvis wdye   
+72196,TC A Mri pelvis wdye   
+72197,A Mri pelvis wo  wdye   
+72197, A Mri pelvis wo  wdye   
+72197,TC A Mri pelvis wo  wdye   
+72198,A Mr angio pelvis wo  wdye   
+72198, A Mr angio pelvis wo  wdye   
+72198,TC A Mr angio pelvis wo  wdye   
+72200,A Xray exam si joints   
+72200, A Xray exam si joints   
+72200,TC A Xray exam si joints   
+72202,A Xray exam si joints  vws   
+72202, A Xray exam si joints  vws   
+72202,TC A Xray exam si joints  vws   
+72220,A Xray exam sacrum tailbone   
+72220, A Xray exam sacrum tailbone   
+72220,TC A Xray exam sacrum tailbone   
+72240,A Myelography neck spine   
+72240, A Myelography neck spine   
+72240,TC A Myelography neck spine   
+72255,A Myelography thoracic spine   
+72255, A Myelography thoracic spine   
+Page 9,of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+72255,TC A Myelography thoracic spine   
+72265,A Myelography ls spine   
+72265, A Myelography ls spine   
+72265,TC A Myelography ls spine   
+72270,A Myelogphy  spine regions   
+72270, A Myelogphy  spine regions   
+72270,TC A Myelogphy  spine regions   
+72285,A Discography cervthor spine   
+72285, A Discography cervthor spine   
+72285,TC A Discography cervthor spine   
+72295,A Xray of lower spine disk   
+72295, A Xray of lower spine disk   
+72295,TC A Xray of lower spine disk   
+73000,A Xray exam of collar bone   
+73000, A Xray exam of collar bone   
+73000,TC A Xray exam of collar bone   
+73010,A Xray exam of shoulder blade   
+73010, A Xray exam of shoulder blade   
+73010,TC A Xray exam of shoulder blade   
+73020,A Xray exam of shoulder   
+73020, A Xray exam of shoulder   
+73020,TC A Xray exam of shoulder   
+73030,A Xray exam of shoulder   
+73030, A Xray exam of shoulder   
+73030,TC A Xray exam of shoulder   
+73040,A Contrast xray of shoulder   
+73040, A Contrast xray of shoulder   
+73040,TC A Contrast xray of shoulder   
+73050,A Xray exam of shoulders   
+73050, A Xray exam of shoulders   
+73050,TC A Xray exam of shoulders   
+73060,A Xray exam of humerus   
+73060, A Xray exam of humerus   
+73060,TC A Xray exam of humerus   
+73070,A Xray exam of elbow   
+73070, A Xray exam of elbow   
+73070,TC A Xray exam of elbow   
+73080,A Xray exam of elbow   
+73080, A Xray exam of elbow   
+73080,TC A Xray exam of elbow   
+73085,A Contrast xray of elbow   
+73085, A Contrast xray of elbow   
+73085,TC A Contrast xray of elbow   
+73090,A Xray exam of forearm   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+73090, A Xray exam of forearm   
+73090,TC A Xray exam of forearm   
+73092,A Xray exam of arm infant   
+73092, A Xray exam of arm infant   
+73092,TC A Xray exam of arm infant   
+73100,A Xray exam of wrist   
+73100, A Xray exam of wrist   
+73100,TC A Xray exam of wrist   
+73110,A Xray exam of wrist   
+73110, A Xray exam of wrist   
+73110,TC A Xray exam of wrist   
+73115,A Contrast xray of wrist   
+73115, A Contrast xray of wrist   
+73115,TC A Contrast xray of wrist   
+73120,A Xray exam of hand   
+73120, A Xray exam of hand   
+73120,TC A Xray exam of hand   
+73130,A Xray exam of hand   
+73130, A Xray exam of hand   
+73130,TC A Xray exam of hand   
+73140,A Xray exam of fingers   
+73140, A Xray exam of fingers   
+73140,TC A Xray exam of fingers   
+73200,A Ct upper extremity wo dye   
+73200, A Ct upper extremity wo dye   
+73200,TC A Ct upper extremity wo dye   
+73201,A Ct upper extremity wdye   
+73201, A Ct upper extremity wdye   
+73201,TC A Ct upper extremity wdye   
+73202,A Ct uppr extremity wowdye   
+73202, A Ct uppr extremity wowdye   
+73202,TC A Ct uppr extremity wowdye   
+73206,A Ct angio upr extrm wowdye   
+73206, A Ct angio upr extrm wowdye   
+73206,TC A Ct angio upr extrm wowdye   
+73218,A Mri upper extremity wo dye   
+73218, A Mri upper extremity wo dye   
+73218,TC A Mri upper extremity wo dye   
+73219,A Mri upper extremity wdye   
+73219, A Mri upper extremity wdye   
+73219,TC A Mri upper extremity wdye   
+73220,A Mri uppr extremity wowdye   
+73220, A Mri uppr extremity wowdye   
+73220,TC A Mri uppr extremity wowdye   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+73221,A Mri joint upr extrem wo dye   
+73221, A Mri joint upr extrem wo dye   
+73221,TC A Mri joint upr extrem wo dye   
+73222,A Mri joint upr extrem wdye   
+73222, A Mri joint upr extrem wdye   
+73222,TC A Mri joint upr extrem wdye   
+73223,A Mri joint upr extr wowdye   
+73223, A Mri joint upr extr wowdye   
+73223,TC A Mri joint upr extr wowdye   
+73225,R Mr angio upr extr wowdye   
+73225, R Mr angio upr extr wowdye   
+73225,TC R Mr angio upr extr wowdye   
+73501,A Xray exam hip uni  view   
+73501, A Xray exam hip uni  view   
+73501,TC A Xray exam hip uni  view   
+73502,A Xray exam hip uni  views   
+73502, A Xray exam hip uni  views   
+73502,TC A Xray exam hip uni  views   
+73503,A Xray exam hip uni  views   
+73503, A Xray exam hip uni  views   
+73503,TC A Xray exam hip uni  views   
+73521,A Xray exam hips bi  views   
+73521, A Xray exam hips bi  views   
+73521,TC A Xray exam hips bi  views   
+73522,A Xray exam hips bi  views   
+73522, A Xray exam hips bi  views   
+73522,TC A Xray exam hips bi  views   
+73523,A Xray exam hips bi  views   
+73523, A Xray exam hips bi  views   
+73523,TC A Xray exam hips bi  views   
+73525,A Contrast xray of hip   
+73525, A Contrast xray of hip   
+73525,TC A Contrast xray of hip   
+73551,A Xray exam of femur    
+73551, A Xray exam of femur    
+73551,TC A Xray exam of femur    
+73552,A Xray exam of femur    
+73552, A Xray exam of femur    
+73552,TC A Xray exam of femur    
+73560,A Xray exam of knee  or    
+73560, A Xray exam of knee  or    
+73560,TC A Xray exam of knee  or    
+73562,A Xray exam of knee    
+73562, A Xray exam of knee    
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+73562,TC A Xray exam of knee    
+73564,A Xray exam knee  or more   
+73564, A Xray exam knee  or more   
+73564,TC A Xray exam knee  or more   
+73565,A Xray exam of knees   
+73565, A Xray exam of knees   
+73565,TC A Xray exam of knees   
+73580,A Contrast xray of knee joint   
+73580, A Contrast xray of knee joint   
+73580,TC A Contrast xray of knee joint   
+73590,A Xray exam of lower leg   
+73590, A Xray exam of lower leg   
+73590,TC A Xray exam of lower leg   
+73592,A Xray exam of leg infant   
+73592, A Xray exam of leg infant   
+73592,TC A Xray exam of leg infant   
+73600,A Xray exam of ankle   
+73600, A Xray exam of ankle   
+73600,TC A Xray exam of ankle   
+73610,A Xray exam of ankle   
+73610, A Xray exam of ankle   
+73610,TC A Xray exam of ankle   
+73615,A Contrast xray of ankle   
+73615, A Contrast xray of ankle   
+73615,TC A Contrast xray of ankle   
+73620,A Xray exam of foot   
+73620, A Xray exam of foot   
+73620,TC A Xray exam of foot   
+73630,A Xray exam of foot   
+73630, A Xray exam of foot   
+73630,TC A Xray exam of foot   
+73650,A Xray exam of heel   
+73650, A Xray exam of heel   
+73650,TC A Xray exam of heel   
+73660,A Xray exam of toes   
+73660, A Xray exam of toes   
+73660,TC A Xray exam of toes   
+73700,A Ct lower extremity wo dye   
+73700, A Ct lower extremity wo dye   
+73700,TC A Ct lower extremity wo dye   
+73701,A Ct lower extremity wdye   
+73701, A Ct lower extremity wdye   
+73701,TC A Ct lower extremity wdye   
+73702,A Ct lwr extremity wowdye   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+73702, A Ct lwr extremity wowdye   
+73702,TC A Ct lwr extremity wowdye   
+73706,A Ct angio lwr extr wowdye   
+73706, A Ct angio lwr extr wowdye   
+73706,TC A Ct angio lwr extr wowdye   
+73718,A Mri lower extremity wo dye   
+73718, A Mri lower extremity wo dye   
+73718,TC A Mri lower extremity wo dye   
+73719,A Mri lower extremity wdye   
+73719, A Mri lower extremity wdye   
+73719,TC A Mri lower extremity wdye   
+73720,A Mri lwr extremity wowdye   
+73720, A Mri lwr extremity wowdye   
+73720,TC A Mri lwr extremity wowdye   
+73721,A Mri jnt of lwr extre wo dye   
+73721, A Mri jnt of lwr extre wo dye   
+73721,TC A Mri jnt of lwr extre wo dye   
+73722,A Mri joint of lwr extr wdye   
+73722, A Mri joint of lwr extr wdye   
+73722,TC A Mri joint of lwr extr wdye   
+73723,A Mri joint lwr extr wowdye   
+73723, A Mri joint lwr extr wowdye   
+73723,TC A Mri joint lwr extr wowdye   
+73725,R Mr ang lwr ext w or wo dye   
+73725, R Mr ang lwr ext w or wo dye   
+73725,TC R Mr ang lwr ext w or wo dye   
+74018,A Xray exam abdomen  view   
+74018, A Xray exam abdomen  view   
+74018,TC A Xray exam abdomen  view   
+74019,A Xray exam abdomen  views   
+74019, A Xray exam abdomen  views   
+74019,TC A Xray exam abdomen  views   
+74021,A Xray exam abdomen  views   
+74021, A Xray exam abdomen  views   
+74021,TC A Xray exam abdomen  views   
+74022,A Xray exam complete abdomen   
+74022, A Xray exam complete abdomen   
+74022,TC A Xray exam complete abdomen   
+74150,A Ct abdomen wo dye   
+74150, A Ct abdomen wo dye   
+74150,TC A Ct abdomen wo dye   
+74160,A Ct abdomen wdye   
+74160, A Ct abdomen wdye   
+74160,TC A Ct abdomen wdye   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+74170,A Ct abdomen wo  wdye   
+74170, A Ct abdomen wo  wdye   
+74170,TC A Ct abdomen wo  wdye   
+74174,A Ct angio abdpelv wowdye   
+74174, A Ct angio abdpelv wowdye   
+74174,TC A Ct angio abdpelv wowdye   
+74175,A Ct angio abdom wo  wdye   
+74175, A Ct angio abdom wo  wdye   
+74175,TC A Ct angio abdom wo  wdye   
+74176,A Ct abd  pelvis wo contrast   
+74176, A Ct abd  pelvis wo contrast   
+74176,TC A Ct abd  pelvis wo contrast   
+74177,A Ct abd  pelv wcontrast   
+74177, A Ct abd  pelv wcontrast   
+74177,TC A Ct abd  pelv wcontrast   
+74178,A Ct abd  pelv  regns   
+74178, A Ct abd  pelv  regns   
+74178,TC A Ct abd  pelv  regns   
+74181,A Mri abdomen wo dye   
+74181, A Mri abdomen wo dye   
+74181,TC A Mri abdomen wo dye   
+74182,A Mri abdomen wdye   
+74182, A Mri abdomen wdye   
+74182,TC A Mri abdomen wdye   
+74183,A Mri abdomen wo  wdye   
+74183, A Mri abdomen wo  wdye   
+74183,TC A Mri abdomen wo  wdye   
+74185,R Mri angio abdom w orwo dye   
+74185, R Mri angio abdom w orwo dye   
+74185,TC R Mri angio abdom w orwo dye   
+74190, A Xray exam of peritoneum   
+74190,C Xray exam of peritoneum  
+74190,TC C Xray exam of peritoneum  
+74210,A Xray xm phrnxcrv esoph c   
+74210, A Xray xm phrnxcrv esoph c   
+74210,TC A Xray xm phrnxcrv esoph c   
+74220,A Xray xm esophagus cntrst   
+74220, A Xray xm esophagus cntrst   
+74220,TC A Xray xm esophagus cntrst   
+74221,A Xray xm esophagus cntrst   
+74221, A Xray xm esophagus cntrst   
+74221,TC A Xray xm esophagus cntrst   
+74230,A Xray xm swlng funcj c   
+74230, A Xray xm swlng funcj c   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+74230,TC A Xray xm swlng funcj c   
+74235, A Remove esophagus obstruction   
+74235,C Remove esophagus obstruction  
+74235,TC C Remove esophagus obstruction  
+74240,A Xray xm upr gi trc cntrst   
+74240, A Xray xm upr gi trc cntrst   
+74240,TC A Xray xm upr gi trc cntrst   
+74246,A Xray xm upr gi trc cntrst   
+74246, A Xray xm upr gi trc cntrst   
+74246,TC A Xray xm upr gi trc cntrst   
+74248,A Xray sm int fthru std   
+74248, A Xray sm int fthru std   
+74248,TC A Xray sm int fthru std   
+74250,A Xray xm sm int cntrst std   
+74250, A Xray xm sm int cntrst std   
+74250,TC A Xray xm sm int cntrst std   
+74251,A Xray xm sm int cntrst std   
+74251, A Xray xm sm int cntrst std   
+74251,TC A Xray xm sm int cntrst std   
+74261,A Ct colonography dx   
+74261, A Ct colonography dx   
+74261,TC A Ct colonography dx   
+74262,A Ct colonography dx wdye   
+74262, A Ct colonography dx wdye   
+74262,TC A Ct colonography dx wdye   
+74263,N Ct colonography screening   
+74263, N Ct colonography screening   
+74263,TC N Ct colonography screening   
+74270,A Xray xm colon cntrst std   
+74270, A Xray xm colon cntrst std   
+74270,TC A Xray xm colon cntrst std   
+74280,A Xray xm colon cntrst std   
+74280, A Xray xm colon cntrst std   
+74280,TC A Xray xm colon cntrst std   
+74283,A Ther nma rdctj intusobstrcj   
+74283, A Ther nma rdctj intusobstrcj   
+74283,TC A Ther nma rdctj intusobstrcj   
+74290,A Contrast xray gallbladder   
+74290, A Contrast xray gallbladder   
+74290,TC A Contrast xray gallbladder   
+74300, A Xray bile ductspancreas   
+74300,C Xray bile ductspancreas  
+74300,TC C Xray bile ductspancreas  
+74301, A Xrays at surgery addon   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+74301,C Xrays at surgery addon  
+74301,TC C Xrays at surgery addon  
+74328, A Xray bile duct endoscopy   
+74328,C Xray bile duct endoscopy  
+74328,TC C Xray bile duct endoscopy  
+74329, A Xray for pancreas endoscopy   
+74329,C Xray for pancreas endoscopy  
+74329,TC C Xray for pancreas endoscopy  
+74330, A Xray bilepanc endoscopy   
+74330,C Xray bilepanc endoscopy  
+74330,TC C Xray bilepanc endoscopy  
+74340, A Xray guide for gi tube   
+74340,C Xray guide for gi tube  
+74340,TC C Xray guide for gi tube  
+74355, A Xray guide intestinal tube   
+74355,C Xray guide intestinal tube  
+74355,TC C Xray guide intestinal tube  
+74360, A Xray guide gi dilation   
+74360,C Xray guide gi dilation  
+74360,TC C Xray guide gi dilation  
+74363, A Xray bile duct dilation   
+74363,C Xray bile duct dilation  
+74363,TC C Xray bile duct dilation  
+74400,A Urography iv kub tomog   
+74400, A Urography iv kub tomog   
+74400,TC A Urography iv kub tomog   
+74410,A Urography nfs dripbolus   
+74410, A Urography nfs dripbolus   
+74410,TC A Urography nfs dripbolus   
+74415,A Urography nfs dripbls wnf   
+74415, A Urography nfs dripbls wnf   
+74415,TC A Urography nfs dripbls wnf   
+74420,A Urography rtrgr kub   
+74420, A Urography rtrgr kub   
+74420,TC A Urography rtrgr kub   
+74425,A Urography antegrade rsi   
+74425, A Urography antegrade rsi   
+74425,TC A Urography antegrade rsi   
+74430,A Contrast xray bladder   
+74430, A Contrast xray bladder   
+74430,TC A Contrast xray bladder   
+74440,A Xray male genital tract   
+74440, A Xray male genital tract   
+74440,TC A Xray male genital tract   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+74445, A Xray exam of penis   
+74445,C Xray exam of penis  
+74445,TC C Xray exam of penis  
+74450, A Xray urethrabladder   
+74450,C Xray urethrabladder  
+74450,TC C Xray urethrabladder  
+74455,A Xray urethrabladder   
+74455, A Xray urethrabladder   
+74455,TC A Xray urethrabladder   
+74470, A Xray exam of kidney lesion   
+74470,C Xray exam of kidney lesion  
+74470,TC C Xray exam of kidney lesion  
+74485,A Dilation urtrurt rsi   
+74485, A Dilation urtrurt rsi   
+74485,TC A Dilation urtrurt rsi   
+74710,A Xray measurement of pelvis   
+74710, A Xray measurement of pelvis   
+74710,TC A Xray measurement of pelvis   
+74712,A Mri fetal snglst gestation   
+74712, A Mri fetal snglst gestation   
+74712,TC A Mri fetal snglst gestation   
+74713,A Mri fetal ea addl gestation   
+74713, A Mri fetal ea addl gestation   
+74713,TC A Mri fetal ea addl gestation   
+74740,A Xray female genital tract   
+74740, A Xray female genital tract   
+74740,TC A Xray female genital tract   
+74742, A Xray fallopian tube   
+74742,C Xray fallopian tube  
+74742,TC C Xray fallopian tube  
+74775, A Xray exam of perineum   
+74775,C Xray exam of perineum  
+74775,TC C Xray exam of perineum  
+75557,A Cardiac mri for morph   
+75557, A Cardiac mri for morph   
+75557,TC A Cardiac mri for morph   
+75559,A Cardiac mri wstress img   
+75559, A Cardiac mri wstress img   
+75559,TC A Cardiac mri wstress img   
+75561,A Cardiac mri for morph wdye   
+75561, A Cardiac mri for morph wdye   
+75561,TC A Cardiac mri for morph wdye   
+75563,A Card mri wstress img  dye   
+75563, A Card mri wstress img  dye   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+75563,TC A Card mri wstress img  dye   
+75565,A Card mri veloc flow mapping   
+75565, A Card mri veloc flow mapping   
+75565,TC A Card mri veloc flow mapping   
+75571,A Ct hrt wo dye wca test   
+75571, A Ct hrt wo dye wca test   
+75571,TC A Ct hrt wo dye wca test   
+75572,A Ct hrt wd image   
+75572, A Ct hrt wd image   
+75572,TC A Ct hrt wd image   
+75573,A Ct hrt c strux cgen hrt ds   
+75573, A Ct hrt c strux cgen hrt ds   
+75573,TC A Ct hrt c strux cgen hrt ds   
+75574,A Ct angio hrt wd image   
+75574, A Ct angio hrt wd image   
+75574,TC A Ct angio hrt wd image   
+75600,A Contrast exam thoracic aorta   
+75600, A Contrast exam thoracic aorta   
+75600,TC A Contrast exam thoracic aorta   
+75605,A Contrast exam thoracic aorta   
+75605, A Contrast exam thoracic aorta   
+75605,TC A Contrast exam thoracic aorta   
+75625,A Contrast exam abdominl aorta   
+75625, A Contrast exam abdominl aorta   
+75625,TC A Contrast exam abdominl aorta   
+75630,A Xray aorta leg arteries   
+75630, A Xray aorta leg arteries   
+75630,TC A Xray aorta leg arteries   
+75635,A Ct angio abdominal arteries   
+75635, A Ct angio abdominal arteries   
+75635,TC A Ct angio abdominal arteries   
+75705,A Artery xrays spine   
+75705, A Artery xrays spine   
+75705,TC A Artery xrays spine   
+75710,A Artery xrays armleg   
+75710, A Artery xrays armleg   
+75710,TC A Artery xrays armleg   
+75716,A Artery xrays armslegs   
+75716, A Artery xrays armslegs   
+75716,TC A Artery xrays armslegs   
+75726,A Artery xrays abdomen   
+75726, A Artery xrays abdomen   
+75726,TC A Artery xrays abdomen   
+75731,A Artery xrays adrenal gland   
+Page 1, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+75731, A Artery xrays adrenal gland   
+75731,TC A Artery xrays adrenal gland   
+75733,A Artery xrays adrenals   
+75733, A Artery xrays adrenals   
+75733,TC A Artery xrays adrenals   
+75736,A Artery xrays pelvis   
+75736, A Artery xrays pelvis   
+75736,TC A Artery xrays pelvis   
+75741,A Artery xrays lung   
+75741, A Artery xrays lung   
+75741,TC A Artery xrays lung   
+75743,A Artery xrays lungs   
+75743, A Artery xrays lungs   
+75743,TC A Artery xrays lungs   
+75746,A Artery xrays lung   
+75746, A Artery xrays lung   
+75746,TC A Artery xrays lung   
+75756,A Artery xrays chest   
+75756, A Artery xrays chest   
+75756,TC A Artery xrays chest   
+75774,A Artery xray each vessel   
+75774, A Artery xray each vessel   
+75774,TC A Artery xray each vessel   
+75801, A Lymph vessel xray armleg   
+75801,C Lymph vessel xray armleg  
+75801,TC C Lymph vessel xray armleg  
+75803, A Lymph vessel xray armslegs   
+75803,C Lymph vessel xray armslegs  
+75803,TC C Lymph vessel xray armslegs  
+75805, A Lymph vessel xray trunk   
+75805,C Lymph vessel xray trunk  
+75805,TC C Lymph vessel xray trunk  
+75807, A Lymph vessel xray trunk   
+75807,C Lymph vessel xray trunk  
+75807,TC C Lymph vessel xray trunk  
+75809,A Nonvascular shunt xray   
+75809, A Nonvascular shunt xray   
+75809,TC A Nonvascular shunt xray   
+75810, A Vein xray spleenliver   
+75810,C Vein xray spleenliver  
+75810,TC C Vein xray spleenliver  
+75820,A Vein xray armleg   
+75820, A Vein xray armleg   
+75820,TC A Vein xray armleg   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+75822,A Vein xray armslegs   
+75822, A Vein xray armslegs   
+75822,TC A Vein xray armslegs   
+75825,A Vein xray trunk   
+75825, A Vein xray trunk   
+75825,TC A Vein xray trunk   
+75827,A Vein xray chest   
+75827, A Vein xray chest   
+75827,TC A Vein xray chest   
+75831,A Vein xray kidney   
+75831, A Vein xray kidney   
+75831,TC A Vein xray kidney   
+75833,A Vein xray kidneys   
+75833, A Vein xray kidneys   
+75833,TC A Vein xray kidneys   
+75840,A Vein xray adrenal gland   
+75840, A Vein xray adrenal gland   
+75840,TC A Vein xray adrenal gland   
+75842,A Vein xray adrenal glands   
+75842, A Vein xray adrenal glands   
+75842,TC A Vein xray adrenal glands   
+75860,A Vein xray neck   
+75860, A Vein xray neck   
+75860,TC A Vein xray neck   
+75870,A Vein xray skull   
+75870, A Vein xray skull   
+75870,TC A Vein xray skull   
+75872,A Vein xray skull epidural   
+75872, A Vein xray skull epidural   
+75872,TC A Vein xray skull epidural   
+75880,A Vein xray eye socket   
+75880, A Vein xray eye socket   
+75880,TC A Vein xray eye socket   
+75885,A Vein xray liver whemodynam   
+75885, A Vein xray liver whemodynam   
+75885,TC A Vein xray liver whemodynam   
+75887,A Vein xray liver wo hemodyn   
+75887, A Vein xray liver wo hemodyn   
+75887,TC A Vein xray liver wo hemodyn   
+75889,A Vein xray liver whemodynam   
+75889, A Vein xray liver whemodynam   
+75889,TC A Vein xray liver whemodynam   
+75891,A Vein xray liver   
+75891, A Vein xray liver   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+75891,TC A Vein xray liver   
+75893,A Venous sampling by catheter   
+75893, A Venous sampling by catheter   
+75893,TC A Venous sampling by catheter   
+75894, A Xrays transcath therapy   
+75894,C Xrays transcath therapy  
+75894,TC C Xrays transcath therapy  
+75898, A Followup angiography   
+75898,C Followup angiography  
+75898,TC C Followup angiography  
+75901,A Remove cva device obstruct   
+75901, A Remove cva device obstruct   
+75901,TC A Remove cva device obstruct   
+75902,A Remove cva lumen obstruct   
+75902, A Remove cva lumen obstruct   
+75902,TC A Remove cva lumen obstruct   
+75956, A Xray endovasc thor ao repr   
+75956,C Xray endovasc thor ao repr  
+75956,TC C Xray endovasc thor ao repr  
+75957, A Xray endovasc thor ao repr   
+75957,C Xray endovasc thor ao repr  
+75957,TC C Xray endovasc thor ao repr  
+75958, A Xray place prox ext thor ao   
+75958,C Xray place prox ext thor ao  
+75958,TC C Xray place prox ext thor ao  
+75959, A Xray place dist ext thor ao   
+75959,C Xray place dist ext thor ao  
+75959,TC C Xray place dist ext thor ao  
+75970, A Vascular biopsy   
+75970,C Vascular biopsy  
+75970,TC C Vascular biopsy  
+75984,A Xray control catheter change   
+75984, A Xray control catheter change   
+75984,TC A Xray control catheter change   
+75989,A Abscess drainage under xray   
+75989, A Abscess drainage under xray   
+75989,TC A Abscess drainage under xray   
+76000,A Fluoroscopy  hr physqhp   
+76000, A Fluoroscopy  hr physqhp   
+76000,TC A Fluoroscopy  hr physqhp   
+76010,A Xray nose to rectum   
+76010, A Xray nose to rectum   
+76010,TC A Xray nose to rectum   
+76080,A Xray exam of fistula   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+76080, A Xray exam of fistula   
+76080,TC A Xray exam of fistula   
+76098,A Xray exam surgical specimen   
+76098, A Xray exam surgical specimen   
+76098,TC A Xray exam surgical specimen   
+76100,A Xray exam of body section   
+76100, A Xray exam of body section   
+76100,TC A Xray exam of body section   
+76120,A Cinevideo xrays   
+76120, A Cinevideo xrays   
+76120,TC A Cinevideo xrays   
+76125, A Cinevideo xrays addon   
+76125,C Cinevideo xrays addon  
+76125,TC C Cinevideo xrays addon  
+76140,I Xray consultation  
+76145,A Med physic dos eval rad exps   
+76376,A d render wintrp postproces   
+76376, A d render wintrp postproces   
+76376,TC A d render wintrp postproces   
+76377,A d render wintrp postproces   
+76377, A d render wintrp postproces   
+76377,TC A d render wintrp postproces   
+76380,A Cat scan followup study   
+76380, A Cat scan followup study   
+76380,TC A Cat scan followup study   
+76390,C Mr spectroscopy  
+76390, C Mr spectroscopy  
+76390,TC C Mr spectroscopy  
+76391,A Mr elastography   
+76391, A Mr elastography   
+76391,TC A Mr elastography   
+76496,C Unlisted fluoroscopic px  
+76496, C Unlisted fluoroscopic px  
+76496,TC C Unlisted fluoroscopic px  
+76497,C Unlisted ct procedure  
+76497, C Unlisted ct procedure  
+76497,TC C Unlisted ct procedure  
+76498,C Unlisted mr procedure  
+76498, C Unlisted mr procedure  
+76498,TC C Unlisted mr procedure  
+76499,C Unlisted dx radiographic px  
+76499, C Unlisted dx radiographic px  
+76499,TC C Unlisted dx radiographic px  
+76506,A Echo exam of head   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+76506, A Echo exam of head   
+76506,TC A Echo exam of head   
+76510,A Oph us dx bscanquan ascan   
+76510, A Oph us dx bscanquan ascan   
+76510,TC A Oph us dx bscanquan ascan   
+76511,A Oph us dx quan ascan only   
+76511, A Oph us dx quan ascan only   
+76511,TC A Oph us dx quan ascan only   
+76512,A Oph us dx bscan   
+76512, A Oph us dx bscan   
+76512,TC A Oph us dx bscan   
+76513,A Oph us dx ant sgm us unibi   
+76513, A Oph us dx ant sgm us unibi   
+76513,TC A Oph us dx ant sgm us unibi   
+76514,A Echo exam of eye thickness   
+76514, A Echo exam of eye thickness   
+76514,TC A Echo exam of eye thickness   
+76516,A Echo exam of eye   
+76516, A Echo exam of eye   
+76516,TC A Echo exam of eye   
+76519,A Echo exam of eye   
+76519, A Echo exam of eye   
+76519,TC A Echo exam of eye   
+76529,A Echo exam of eye   
+76529, A Echo exam of eye   
+76529,TC A Echo exam of eye   
+76536,A Us exam of head and neck   
+76536, A Us exam of head and neck   
+76536,TC A Us exam of head and neck   
+76604,A Us exam chest   
+76604, A Us exam chest   
+76604,TC A Us exam chest   
+76641,A Ultrasound breast complete   
+76641, A Ultrasound breast complete   
+76641,TC A Ultrasound breast complete   
+76642,A Ultrasound breast limited   
+76642, A Ultrasound breast limited   
+76642,TC A Ultrasound breast limited   
+76700,A Us exam abdom complete   
+76700, A Us exam abdom complete   
+76700,TC A Us exam abdom complete   
+76705,A Echo exam of abdomen   
+76705, A Echo exam of abdomen   
+76705,TC A Echo exam of abdomen   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+76706,A Us abdl aorta screen aaa   
+76706, A Us abdl aorta screen aaa   
+76706,TC A Us abdl aorta screen aaa   
+76770,A Us exam abdo back wall comp   
+76770, A Us exam abdo back wall comp   
+76770,TC A Us exam abdo back wall comp   
+76775,A Us exam abdo back wall lim   
+76775, A Us exam abdo back wall lim   
+76775,TC A Us exam abdo back wall lim   
+76776,A Us exam k transpl wdoppler   
+76776, A Us exam k transpl wdoppler   
+76776,TC A Us exam k transpl wdoppler   
+76800,A Us exam spinal canal   
+76800, A Us exam spinal canal   
+76800,TC A Us exam spinal canal   
+76801,A Ob us   wks single fetus   
+76801, A Ob us   wks single fetus   
+76801,TC A Ob us   wks single fetus   
+76802,A Ob us   wks addl fetus   
+76802, A Ob us   wks addl fetus   
+76802,TC A Ob us   wks addl fetus   
+76805,A Ob us   wks sngl fetus   
+76805, A Ob us   wks sngl fetus   
+76805,TC A Ob us   wks sngl fetus   
+76810,A Ob us   wks addl fetus   
+76810, A Ob us   wks addl fetus   
+76810,TC A Ob us   wks addl fetus   
+76811,A Ob us detailed sngl fetus   
+76811, A Ob us detailed sngl fetus   
+76811,TC A Ob us detailed sngl fetus   
+76812,A Ob us detailed addl fetus   
+76812, A Ob us detailed addl fetus   
+76812,TC A Ob us detailed addl fetus   
+76813,A Ob us nuchal meas  gest   
+76813, A Ob us nuchal meas  gest   
+76813,TC A Ob us nuchal meas  gest   
+76814,A Ob us nuchal meas addon   
+76814, A Ob us nuchal meas addon   
+76814,TC A Ob us nuchal meas addon   
+76815,A Ob us limited fetuss   
+76815, A Ob us limited fetuss   
+76815,TC A Ob us limited fetuss   
+76816,A Ob us followup per fetus   
+76816, A Ob us followup per fetus   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+76816,TC A Ob us followup per fetus   
+76817,A Transvaginal us obstetric   
+76817, A Transvaginal us obstetric   
+76817,TC A Transvaginal us obstetric   
+76818,A Fetal biophys profile wnst   
+76818, A Fetal biophys profile wnst   
+76818,TC A Fetal biophys profile wnst   
+76819,A Fetal biophys profil wo nst   
+76819, A Fetal biophys profil wo nst   
+76819,TC A Fetal biophys profil wo nst   
+76820,A Umbilical artery echo   
+76820, A Umbilical artery echo   
+76820,TC A Umbilical artery echo   
+76821,A Middle cerebral artery echo   
+76821, A Middle cerebral artery echo   
+76821,TC A Middle cerebral artery echo   
+76825,A Echo exam of fetal heart   
+76825, A Echo exam of fetal heart   
+76825,TC A Echo exam of fetal heart   
+76826,A Echo exam of fetal heart   
+76826, A Echo exam of fetal heart   
+76826,TC A Echo exam of fetal heart   
+76827,A Echo exam of fetal heart   
+76827, A Echo exam of fetal heart   
+76827,TC A Echo exam of fetal heart   
+76828,A Echo exam of fetal heart   
+76828, A Echo exam of fetal heart   
+76828,TC A Echo exam of fetal heart   
+76830,A Transvaginal us nonob   
+76830, A Transvaginal us nonob   
+76830,TC A Transvaginal us nonob   
+76831,A Echo exam uterus   
+76831, A Echo exam uterus   
+76831,TC A Echo exam uterus   
+76856,A Us exam pelvic complete   
+76856, A Us exam pelvic complete   
+76856,TC A Us exam pelvic complete   
+76857,A Us exam pelvic limited   
+76857, A Us exam pelvic limited   
+76857,TC A Us exam pelvic limited   
+76870,A Us exam scrotum   
+76870, A Us exam scrotum   
+76870,TC A Us exam scrotum   
+76872,A Us transrectal   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+76872, A Us transrectal   
+76872,TC A Us transrectal   
+76873,A Echograp trans r pros study   
+76873, A Echograp trans r pros study   
+76873,TC A Echograp trans r pros study   
+76881,A Us compl joint rt wimg   
+76881, A Us compl joint rt wimg   
+76881,TC A Us compl joint rt wimg   
+76882,A Us lmtd jtfcl evl nvasc xtr   
+76882, A Us lmtd jtfcl evl nvasc xtr   
+76882,TC A Us lmtd jtfcl evl nvasc xtr   
+76883,A Us nrvacc strux xtr compre 
+76883, A Us nrvacc strux xtr compre 
+76883,TC A Us nrvacc strux xtr compre 
+76885,A Us exam infant hips dynamic   
+76885, A Us exam infant hips dynamic   
+76885,TC A Us exam infant hips dynamic   
+76886,A Us exam infant hips static   
+76886, A Us exam infant hips static   
+76886,TC A Us exam infant hips static   
+76932, A Echo guide for heart biopsy   
+76932,C Echo guide for heart biopsy  
+76932,TC C Echo guide for heart biopsy  
+76936,A Echo guide for artery repair   
+76936, A Echo guide for artery repair   
+76936,TC A Echo guide for artery repair   
+76937,A Us guide vascular access   
+76937, A Us guide vascular access   
+76937,TC A Us guide vascular access   
+76940, A Us guide tissue ablation   
+76940,C Us guide tissue ablation  
+76940,TC C Us guide tissue ablation  
+76941, A Echo guide for transfusion   
+76941,C Echo guide for transfusion  
+76941,TC C Echo guide for transfusion  
+76942,A Echo guide for biopsy   
+76942, A Echo guide for biopsy   
+76942,TC A Echo guide for biopsy   
+76945, A Echo guide villus sampling   
+76945,C Echo guide villus sampling  
+76945,TC C Echo guide villus sampling  
+76946,A Echo guide for amniocentesis   
+76946, A Echo guide for amniocentesis   
+76946,TC A Echo guide for amniocentesis   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+76948,A Echo guide ova aspiration   
+76948, A Echo guide ova aspiration   
+76948,TC A Echo guide ova aspiration   
+76965,A Echo guidance radiotherapy   
+76965, A Echo guidance radiotherapy   
+76965,TC A Echo guidance radiotherapy   
+76975, A Gi endoscopic ultrasound   
+76975,C Gi endoscopic ultrasound  
+76975,TC C Gi endoscopic ultrasound  
+76977,A Us bone density measure   
+76977, A Us bone density measure   
+76977,TC A Us bone density measure   
+76978,A Us trgt dyn mbubb st les   
+76978, A Us trgt dyn mbubb st les   
+76978,TC A Us trgt dyn mbubb st les   
+76979,A Us trgt dyn mbubb ea addl   
+76979, A Us trgt dyn mbubb ea addl   
+76979,TC A Us trgt dyn mbubb ea addl   
+76981,A Use parenchyma   
+76981, A Use parenchyma   
+76981,TC A Use parenchyma   
+76982,A Use st target lesion   
+76982, A Use st target lesion   
+76982,TC A Use st target lesion   
+76983,A Use ea addl target lesion   
+76983, A Use ea addl target lesion   
+76983,TC A Use ea addl target lesion   
+76998, A Us guide intraop   
+76998,C Us guide intraop  
+76998,TC C Us guide intraop  
+76999,C Echo examination procedure  
+76999, C Echo examination procedure  
+76999,TC C Echo examination procedure  
+77001,A Fluoroguide for vein device   
+77001, A Fluoroguide for vein device   
+77001,TC A Fluoroguide for vein device   
+77002,A Needle localization by xray   
+77002, A Needle localization by xray   
+77002,TC A Needle localization by xray   
+77003,A Fluoroguide for spine inject   
+77003, A Fluoroguide for spine inject   
+77003,TC A Fluoroguide for spine inject   
+77011,A Ct scan for localization   
+77011, A Ct scan for localization   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+77011,TC A Ct scan for localization   
+77012,A Ct scan for needle biopsy   
+77012, A Ct scan for needle biopsy   
+77012,TC A Ct scan for needle biopsy   
+77013, A Ct guide for tissue ablation   
+77013,C Ct guide for tissue ablation  
+77013,TC C Ct guide for tissue ablation  
+77014,A Ct scan for therapy guide   
+77014, A Ct scan for therapy guide   
+77014,TC A Ct scan for therapy guide   
+77021,A Mri guidance ndl plmt rsi   
+77021, A Mri guidance ndl plmt rsi   
+77021,TC A Mri guidance ndl plmt rsi   
+77022, A Mri gdn parnchyma tiss abltj   
+77022,C Mri gdn parnchyma tiss abltj  
+77022,TC C Mri gdn parnchyma tiss abltj  
+77046,A Mri breast c unilateral   
+77046, A Mri breast c unilateral   
+77046,TC A Mri breast c unilateral   
+77047,A Mri breast c bilateral   
+77047, A Mri breast c bilateral   
+77047,TC A Mri breast c bilateral   
+77048,A Mri breast c wcad uni   
+77048, A Mri breast c wcad uni   
+77048,TC A Mri breast c wcad uni   
+77049,A Mri breast c wcad bi   
+77049, A Mri breast c wcad bi   
+77049,TC A Mri breast c wcad bi   
+77053,A Xray of mammary duct   
+77053, A Xray of mammary duct   
+77053,TC A Xray of mammary duct   
+77054,A Xray of mammary ducts   
+77054, A Xray of mammary ducts   
+77054,TC A Xray of mammary ducts   
+77061,I Breast tomosynthesis uni  
+77061, I Breast tomosynthesis uni  
+77061,TC I Breast tomosynthesis uni  
+77062,I Breast tomosynthesis bi  
+77062, I Breast tomosynthesis bi  
+77062,TC I Breast tomosynthesis bi  
+77063,A Breast tomosynthesis bi   
+77063, A Breast tomosynthesis bi   
+77063,TC A Breast tomosynthesis bi   
+77065,A Dx mammo incl cad uni   
+Page 2, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+77065, A Dx mammo incl cad uni   
+77065,TC A Dx mammo incl cad uni   
+77066,A Dx mammo incl cad bi   
+77066, A Dx mammo incl cad bi   
+77066,TC A Dx mammo incl cad bi   
+77067,A Scr mammo bi incl cad   
+77067, A Scr mammo bi incl cad   
+77067,TC A Scr mammo bi incl cad   
+77071,A Xray stress view   
+77072,A Xrays for bone age   
+77072, A Xrays for bone age   
+77072,TC A Xrays for bone age   
+77073,A Xrays bone length studies   
+77073, A Xrays bone length studies   
+77073,TC A Xrays bone length studies   
+77074,A Xrays bone survey limited   
+77074, A Xrays bone survey limited   
+77074,TC A Xrays bone survey limited   
+77075,A Xrays bone survey complete   
+77075, A Xrays bone survey complete   
+77075,TC A Xrays bone survey complete   
+77076,A Xrays bone survey infant   
+77076, A Xrays bone survey infant   
+77076,TC A Xrays bone survey infant   
+77077,A Joint survey single view   
+77077, A Joint survey single view   
+77077,TC A Joint survey single view   
+77078,A Ct bone density axial   
+77078, A Ct bone density axial   
+77078,TC A Ct bone density axial   
+77080,A Dxa bone density axial   
+77080, A Dxa bone density axial   
+77080,TC A Dxa bone density axial   
+77081,A Dxa bone densityperipheral   
+77081, A Dxa bone densityperipheral   
+77081,TC A Dxa bone densityperipheral   
+77084,A Magnetic image bone marrow   
+77084, A Magnetic image bone marrow   
+77084,TC A Magnetic image bone marrow   
+77085,A Dxa bone density study   
+77085, A Dxa bone density study   
+77085,TC A Dxa bone density study   
+77086,A Fracture assessment via dxa   
+77086, A Fracture assessment via dxa   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+77086,TC A Fracture assessment via dxa   
+77089,A Tbs dxa cal wir fx risk   
+77090,A Tbs techl preptransmis data   
+77091,A Tbs techl calculation only   
+77092,A Tbs ir fx rsk qhp   
+77261,A Radiation therapy planning   
+77262,A Radiation therapy planning   
+77263,A Radiation therapy planning   
+77280,A Set radiation therapy field   
+77280, A Set radiation therapy field   
+77280,TC A Set radiation therapy field   
+77285,A Set radiation therapy field   
+77285, A Set radiation therapy field   
+77285,TC A Set radiation therapy field   
+77290,A Set radiation therapy field   
+77290, A Set radiation therapy field   
+77290,TC A Set radiation therapy field   
+77293,A Respirator motion mgmt simul   
+77293, A Respirator motion mgmt simul   
+77293,TC A Respirator motion mgmt simul   
+77295,A d radiotherapy plan   
+77295, A d radiotherapy plan   
+77295,TC A d radiotherapy plan   
+77299,C Unlisted px ther rad tx plng  
+77299, C Unlisted px ther rad tx plng  
+77299,TC C Unlisted px ther rad tx plng  
+77300,A Radiation therapy dose plan   
+77300, A Radiation therapy dose plan   
+77300,TC A Radiation therapy dose plan   
+77301,A Radiotherapy dose plan imrt   
+77301, A Radiotherapy dose plan imrt   
+77301,TC A Radiotherapy dose plan imrt  
+77306,A Telethx isodose plan simple   
+77306, A Telethx isodose plan simple   
+77306,TC A Telethx isodose plan simple   
+77307,A Telethx isodose plan cplx   
+77307, A Telethx isodose plan cplx   
+77307,TC A Telethx isodose plan cplx   
+77316,A Brachytx isodose plan simple   
+77316, A Brachytx isodose plan simple   
+77316,TC A Brachytx isodose plan simple   
+77317,A Brachytx isodose intermed   
+77317, A Brachytx isodose intermed   
+77317,TC A Brachytx isodose intermed   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+77318,A Brachytx isodose complex   
+77318, A Brachytx isodose complex   
+77318,TC A Brachytx isodose complex   
+77321,A Special teletx port plan   
+77321, A Special teletx port plan   
+77321,TC A Special teletx port plan   
+77331,A Special radiation dosimetry   
+77331, A Special radiation dosimetry   
+77331,TC A Special radiation dosimetry   
+77332,A Radiation treatment aids   
+77332, A Radiation treatment aids   
+77332,TC A Radiation treatment aids   
+77333,A Radiation treatment aids   
+77333, A Radiation treatment aids   
+77333,TC A Radiation treatment aids   
+77334,A Radiation treatment aids   
+77334, A Radiation treatment aids   
+77334,TC A Radiation treatment aids   
+77336,A Radiation physics consult   
+77338,A Design mlc device for imrt   
+77338, A Design mlc device for imrt   
+77338,TC A Design mlc device for imrt   
+77370,A Radiation physics consult   
+77371,C Srs multisource  
+77372,A Srs linear based   
+77373,A Sbrt delivery   
+77385,I Ntsty modul rad tx dlvr smpl  
+77386,I Ntsty modul rad tx dlvr cplx  
+77387,I Guidance for radj tx dlvr  
+77399,C Unlisted px med radj physics  
+77399, C Unlisted px med radj physics  
+77399,TC C Unlisted px med radj physics  
+77401,A Radiation treatment delivery   
+77402,I Radiation treatment delivery  
+77407,I Radiation treatment delivery  
+77412,I Radiation treatment delivery  
+77417,A Radiology port imagess   
+77423,C Neutron beam tx complex  
+77424,X Io rad tx delivery by xray  
+77425,X Io rad tx deliver by elctrns  
+77427,A Radiation tx management x   
+77431,A Radiation therapy management   
+77432,A Stereotactic radiation trmt   
+77435,A Sbrt management   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+77469,A Io radiation tx management   
+77470,A Special radiation treatment   
+77470, A Special radiation treatment   
+77470,TC A Special radiation treatment   
+77499,C Unlisted px ther rad tx mgmt  
+77499, C Unlisted px ther rad tx mgmt  
+77499,TC C Unlisted px ther rad tx mgmt  
+77520,C Proton trmt simple wo comp  
+77522,C Proton trmt simple wcomp  
+77523,C Proton trmt intermediate  
+77525,C Proton treatment complex  
+77600,R Hyperthermia treatment   
+77600, R Hyperthermia treatment   
+77600,TC R Hyperthermia treatment   
+77605,R Hyperthermia treatment   
+77605, R Hyperthermia treatment   
+77605,TC R Hyperthermia treatment   
+77610,R Hyperthermia treatment   
+77610, R Hyperthermia treatment   
+77610,TC R Hyperthermia treatment   
+77615,R Hyperthermia treatment   
+77615, R Hyperthermia treatment   
+77615,TC R Hyperthermia treatment   
+77620,R Hyperthermia treatment   
+77620, R Hyperthermia treatment   
+77620,TC R Hyperthermia treatment   
+77750,A Infuse radioactive materials   
+77750, A Infuse radioactive materials   
+77750,TC A Infuse radioactive materials   
+77761,A Apply intrcav radiat simple   
+77761, A Apply intrcav radiat simple   
+77761,TC A Apply intrcav radiat simple   
+77762,A Apply intrcav radiat interm   
+77762, A Apply intrcav radiat interm   
+77762,TC A Apply intrcav radiat interm   
+77763,A Apply intrcav radiat compl   
+77763, A Apply intrcav radiat compl   
+77763,TC A Apply intrcav radiat compl   
+77767,A Hdr rdncl skn surf brachytx   
+77767, A Hdr rdncl skn surf brachytx   
+77767,TC A Hdr rdncl skn surf brachytx   
+77768,A Hdr rdncl skn surf brachytx   
+77768, A Hdr rdncl skn surf brachytx   
+77768,TC A Hdr rdncl skn surf brachytx   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+77770,A Hdr rdncl ntrstlicav brchtx   
+77770, A Hdr rdncl ntrstlicav brchtx   
+77770,TC A Hdr rdncl ntrstlicav brchtx   
+77771,A Hdr rdncl ntrstlicav brchtx   
+77771, A Hdr rdncl ntrstlicav brchtx   
+77771,TC A Hdr rdncl ntrstlicav brchtx   
+77772,A Hdr rdncl ntrstlicav brchtx   
+77772, A Hdr rdncl ntrstlicav brchtx   
+77772,TC A Hdr rdncl ntrstlicav brchtx   
+77778,A Apply interstit radiat compl   
+77778, A Apply interstit radiat compl   
+77778,TC A Apply interstit radiat compl   
+77789,A Apply surf ldr radionuclide   
+77789, A Apply surf ldr radionuclide   
+77789,TC A Apply surf ldr radionuclide   
+77790,A Radiation handling   
+77799,C Unlisted px clin brachytx  
+77799, C Unlisted px clin brachytx  
+77799,TC C Unlisted px clin brachytx  
+78012,A Thyroid uptake measurement   
+78012, A Thyroid uptake measurement   
+78012,TC A Thyroid uptake measurement   
+78013,A Thyroid imaging wblood flow   
+78013, A Thyroid imaging wblood flow   
+78013,TC A Thyroid imaging wblood flow   
+78014,A Thyroid imaging wblood flow   
+78014, A Thyroid imaging wblood flow   
+78014,TC A Thyroid imaging wblood flow   
+78015,A Thyroid met imaging   
+78015, A Thyroid met imaging   
+78015,TC A Thyroid met imaging   
+78016,A Thyroid met imagingstudies   
+78016, A Thyroid met imagingstudies   
+78016,TC A Thyroid met imagingstudies   
+78018,A Thyroid met imaging body   
+78018, A Thyroid met imaging body   
+78018,TC A Thyroid met imaging body   
+78020,A Thyroid met uptake   
+78020, A Thyroid met uptake   
+78020,TC A Thyroid met uptake   
+78070,A Parathyroid planar imaging   
+78070, A Parathyroid planar imaging   
+78070,TC A Parathyroid planar imaging   
+78071,A Parathyrd planar wwo subtrj   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78071, A Parathyrd planar wwo subtrj   
+78071,TC A Parathyrd planar wwo subtrj   
+78072,A Parathyrd planar wspectct   
+78072, A Parathyrd planar wspectct   
+78072,TC A Parathyrd planar wspectct   
+78075,A Adrenal cortex  medulla img   
+78075, A Adrenal cortex  medulla img   
+78075,TC A Adrenal cortex  medulla img   
+78099,C Unlisted endocrine px dx nuc  
+78099, C Unlisted endocrine px dx nuc  
+78099,TC C Unlisted endocrine px dx nuc  
+78102,A Bone marrow imaging ltd   
+78102, A Bone marrow imaging ltd   
+78102,TC A Bone marrow imaging ltd   
+78103,A Bone marrow imaging mult   
+78103, A Bone marrow imaging mult   
+78103,TC A Bone marrow imaging mult   
+78104,A Bone marrow imaging body   
+78104, A Bone marrow imaging body   
+78104,TC A Bone marrow imaging body   
+78110,A Plasma volume single   
+78110, A Plasma volume single   
+78110,TC A Plasma volume single   
+78111,A Plasma volume multiple   
+78111, A Plasma volume multiple   
+78111,TC A Plasma volume multiple   
+78120,A Red cell mass single   
+78120, A Red cell mass single   
+78120,TC A Red cell mass single   
+78121,A Red cell mass multiple   
+78121, A Red cell mass multiple   
+78121,TC A Red cell mass multiple   
+78122,A Blood volume   
+78122, A Blood volume   
+78122,TC A Blood volume   
+78130,A Red cell survival study   
+78130, A Red cell survival study   
+78130,TC A Red cell survival study   
+78140,A Red cell sequestration   
+78140, A Red cell sequestration   
+78140,TC A Red cell sequestration   
+78185,A Spleen imaging   
+78185, A Spleen imaging   
+78185,TC A Spleen imaging   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78191,A Platelet survival   
+78191, A Platelet survival   
+78191,TC A Platelet survival   
+78195,A Lymph system imaging   
+78195, A Lymph system imaging   
+78195,TC A Lymph system imaging   
+78199,C Unlstd hematop retendo lymp  
+78199, C Unlstd hematop retendo lymp  
+78199,TC C Unlstd hematop retendo lymp  
+78201,A Liver imaging   
+78201, A Liver imaging   
+78201,TC A Liver imaging   
+78202,A Liver imaging with flow   
+78202, A Liver imaging with flow   
+78202,TC A Liver imaging with flow   
+78215,A Liver and spleen imaging   
+78215, A Liver and spleen imaging   
+78215,TC A Liver and spleen imaging   
+78216,A Liver  spleen imageflow   
+78216, A Liver  spleen imageflow   
+78216,TC A Liver  spleen imageflow   
+78226,A Hepatobiliary system imaging   
+78226, A Hepatobiliary system imaging   
+78226,TC A Hepatobiliary system imaging   
+78227,A Hepatobil syst image wdrug   
+78227, A Hepatobil syst image wdrug   
+78227,TC A Hepatobil syst image wdrug   
+78230,A Salivary gland imaging   
+78230, A Salivary gland imaging   
+78230,TC A Salivary gland imaging   
+78231,A Serial salivary imaging   
+78231, A Serial salivary imaging   
+78231,TC A Serial salivary imaging   
+78232,A Salivary gland function exam   
+78232, A Salivary gland function exam   
+78232,TC A Salivary gland function exam   
+78258,A Esophageal motility study   
+78258, A Esophageal motility study   
+78258,TC A Esophageal motility study   
+78261,A Gastric mucosa imaging   
+78261, A Gastric mucosa imaging   
+78261,TC A Gastric mucosa imaging   
+78262,A Gastroesophageal reflux exam   
+78262, A Gastroesophageal reflux exam   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78262,TC A Gastroesophageal reflux exam   
+78264,A Gastric emptying imag study   
+78264, A Gastric emptying imag study   
+78264,TC A Gastric emptying imag study   
+78265,A Gastric emptying imag study   
+78265, A Gastric emptying imag study   
+78265,TC A Gastric emptying imag study   
+78266,A Gastric emptying imag study   
+78266, A Gastric emptying imag study   
+78266,TC A Gastric emptying imag study   
+78267,X Breath tst attainanal c  
+78268,X Breath test analysis c  
+78278,A Acute gi blood loss imaging   
+78278, A Acute gi blood loss imaging   
+78278,TC A Acute gi blood loss imaging   
+78282, A Gi protein loss exam   
+78282,C Gi protein loss exam  
+78282,TC C Gi protein loss exam  
+78290,A Meckels divert exam   
+78290, A Meckels divert exam   
+78290,TC A Meckels divert exam   
+78291,A Leveenshunt patency exam   
+78291, A Leveenshunt patency exam   
+78291,TC A Leveenshunt patency exam   
+78299,C Unlisted gi px dx nuc med  
+78299, C Unlisted gi px dx nuc med  
+78299,TC C Unlisted gi px dx nuc med  
+78300,A Bone imaging limited area   
+78300, A Bone imaging limited area   
+78300,TC A Bone imaging limited area   
+78305,A Bone imaging multiple areas   
+78305, A Bone imaging multiple areas   
+78305,TC A Bone imaging multiple areas   
+78306,A Bone imaging whole body   
+78306, A Bone imaging whole body   
+78306,TC A Bone imaging whole body   
+78315,A Bone imaging  phase   
+78315, A Bone imaging  phase   
+78315,TC A Bone imaging  phase   
+78350,N Bone mineral single photon   
+78350, N Bone mineral single photon   
+78350,TC N Bone mineral single photon   
+78351,N Bone mineral dual photon   
+78399,C Unlisted muscskel px dx nuc  
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78399, C Unlisted muscskel px dx nuc  
+78399,TC C Unlisted muscskel px dx nuc  
+78414, A Nonimaging heart function   
+78414,C Nonimaging heart function  
+78414,TC C Nonimaging heart function  
+78428,A Cardiac shunt imaging   
+78428, A Cardiac shunt imaging   
+78428,TC A Cardiac shunt imaging   
+78429, A Myocrd img pet  std wct   
+78429,C Myocrd img pet  std wct  
+78429,TC C Myocrd img pet  std wct  
+78430, A Myocrd img pet rststrs wct   
+78430,C Myocrd img pet rststrs wct  
+78430,TC C Myocrd img pet rststrs wct  
+78431, A Myocrd img pet rststrs ct   
+78431,C Myocrd img pet rststrs ct  
+78431,TC C Myocrd img pet rststrs ct  
+78432, A Myocrd img pet rtracer   
+78432,C Myocrd img pet rtracer  
+78432,TC C Myocrd img pet rtracer  
+78433, A Myocrd img pet rtracer ct   
+78433,C Myocrd img pet rtracer ct  
+78433,TC C Myocrd img pet rtracer ct  
+78434, A Aqmbf pet rest  rx stress   
+78434,C Aqmbf pet rest  rx stress  
+78434,TC C Aqmbf pet rest  rx stress  
+78445,A Vascular flow imaging   
+78445, A Vascular flow imaging   
+78445,TC A Vascular flow imaging   
+78451,A Ht muscle image spect sing   
+78451, A Ht muscle image spect sing   
+78451,TC A Ht muscle image spect sing   
+78452,A Ht muscle image spect mult   
+78452, A Ht muscle image spect mult   
+78452,TC A Ht muscle image spect mult   
+78453,A Ht muscle image planar sing   
+78453, A Ht muscle image planar sing   
+78453,TC A Ht muscle image planar sing   
+78454,A Ht musc image planar mult   
+78454, A Ht musc image planar mult   
+78454,TC A Ht musc image planar mult   
+78456,A Acute venous thrombus image   
+78456, A Acute venous thrombus image   
+78456,TC A Acute venous thrombus image   
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78457,A Venous thrombosis imaging   
+78457, A Venous thrombosis imaging   
+78457,TC A Venous thrombosis imaging   
+78458,A Ven thrombosis images bilat   
+78458, A Ven thrombosis images bilat   
+78458,TC A Ven thrombosis images bilat   
+78459, A Myocrd img pet single study   
+78459,C Myocrd img pet single study  
+78459,TC C Myocrd img pet single study  
+78466,A Heart infarct image   
+78466, A Heart infarct image   
+78466,TC A Heart infarct image   
+78468,A Heart infarct image ef   
+78468, A Heart infarct image ef   
+78468,TC A Heart infarct image ef   
+78469,A Heart infarct image d   
+78469, A Heart infarct image d   
+78469,TC A Heart infarct image d   
+78472,A Gated heart planar single   
+78472, A Gated heart planar single   
+78472,TC A Gated heart planar single   
+78473,A Gated heart multiple   
+78473, A Gated heart multiple   
+78473,TC A Gated heart multiple   
+78481,A Heart first pass single   
+78481, A Heart first pass single   
+78481,TC A Heart first pass single   
+78483,A Heart first pass multiple   
+78483, A Heart first pass multiple   
+78483,TC A Heart first pass multiple   
+78491, A Myocrd img pet std rststrs   
+78491,C Myocrd img pet std rststrs  
+78491,TC C Myocrd img pet std rststrs  
+78492, A Myocrd img pet mlt rststrs   
+78492,C Myocrd img pet mlt rststrs  
+78492,TC C Myocrd img pet mlt rststrs  
+78494,A Heart image spect   
+78494, A Heart image spect   
+78494,TC A Heart image spect   
+78496,A Heart first pass addon   
+78496, A Heart first pass addon   
+78496,TC A Heart first pass addon   
+78499,C Unlisted cv px dx nuc med  
+78499, C Unlisted cv px dx nuc med  
+Page 3, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78499,TC C Unlisted cv px dx nuc med  
+78579,A Lung ventilation imaging   
+78579, A Lung ventilation imaging   
+78579,TC A Lung ventilation imaging   
+78580,A Lung perfusion imaging   
+78580, A Lung perfusion imaging   
+78580,TC A Lung perfusion imaging   
+78582,A Lung ventilatperfus imaging   
+78582, A Lung ventilatperfus imaging   
+78582,TC A Lung ventilatperfus imaging   
+78597,A Lung perfusion differential   
+78597, A Lung perfusion differential   
+78597,TC A Lung perfusion differential   
+78598,A Lung perfventilat diferentl   
+78598, A Lung perfventilat diferentl   
+78598,TC A Lung perfventilat diferentl   
+78599,C Unlisted resp px dx nuc med  
+78599, C Unlisted resp px dx nuc med  
+78599,TC C Unlisted resp px dx nuc med  
+78600,A Brain image   views   
+78600, A Brain image   views   
+78600,TC A Brain image   views   
+78601,A Brain image wflow   views   
+78601, A Brain image wflow   views   
+78601,TC A Brain image wflow   views   
+78605,A Brain image  views   
+78605, A Brain image  views   
+78605,TC A Brain image  views   
+78606,A Brain image wflow   views   
+78606, A Brain image wflow   views   
+78606,TC A Brain image wflow   views   
+78608, A Brain imaging pet   
+78608,C Brain imaging pet  
+78608,TC C Brain imaging pet  
+78609,N Brain imaging pet   
+78609, N Brain imaging pet   
+78609,TC N Brain imaging pet  
+78610,A Brain flow imaging only   
+78610, A Brain flow imaging only   
+78610,TC A Brain flow imaging only   
+78630,A Cerebrospinal fluid scan   
+78630, A Cerebrospinal fluid scan   
+78630,TC A Cerebrospinal fluid scan   
+78635,A Csf ventriculography   
+Page 4, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78635, A Csf ventriculography   
+78635,TC A Csf ventriculography   
+78645,A Csf shunt evaluation   
+78645, A Csf shunt evaluation   
+78645,TC A Csf shunt evaluation   
+78650,A Csf leakage imaging   
+78650, A Csf leakage imaging   
+78650,TC A Csf leakage imaging   
+78660,A Nuclear exam of tear flow   
+78660, A Nuclear exam of tear flow   
+78660,TC A Nuclear exam of tear flow   
+78699,C Unlisted nrvs sys px dx nuc  
+78699, C Unlisted nrvs sys px dx nuc  
+78699,TC C Unlisted nrvs sys px dx nuc  
+78700,A Kidney imaging morphol   
+78700, A Kidney imaging morphol   
+78700,TC A Kidney imaging morphol   
+78701,A Kidney imaging with flow   
+78701, A Kidney imaging with flow   
+78701,TC A Kidney imaging with flow   
+78707,A K flowfunct image wo drug   
+78707, A K flowfunct image wo drug   
+78707,TC A K flowfunct image wo drug   
+78708,A K flowfunct image wdrug   
+78708, A K flowfunct image wdrug   
+78708,TC A K flowfunct image wdrug   
+78709,A K flowfunct image multiple   
+78709, A K flowfunct image multiple   
+78709,TC A K flowfunct image multiple   
+78725,A Kidney function study   
+78725, A Kidney function study   
+78725,TC A Kidney function study   
+78730,A Urinary bladder retention   
+78730, A Urinary bladder retention   
+78730,TC A Urinary bladder retention   
+78740,A Ureteral reflux study   
+78740, A Ureteral reflux study   
+78740,TC A Ureteral reflux study   
+78761,A Testicular imaging wflow   
+78761, A Testicular imaging wflow   
+78761,TC A Testicular imaging wflow   
+78799,C Unlisted gu px dx nuc med  
+78799, C Unlisted gu px dx nuc med  
+78799,TC C Unlisted gu px dx nuc med  
+Page 4, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78800,A Rp loclzj tum  area  d img   
+78800, A Rp loclzj tum  area  d img   
+78800,TC A Rp loclzj tum  area  d img   
+78801,A Rp loclzj tum area d img   
+78801, A Rp loclzj tum area d img   
+78801,TC A Rp loclzj tum area d img   
+78802,A Rp loclzj tum whbdy  d img   
+78802, A Rp loclzj tum whbdy  d img   
+78802,TC A Rp loclzj tum whbdy  d img   
+78803,A Rp loclzj tum spect  area   
+78803, A Rp loclzj tum spect  area   
+78803,TC A Rp loclzj tum spect  area   
+78804,A Rp loclzj tum whbdy d img   
+78804, A Rp loclzj tum whbdy d img   
+78804,TC A Rp loclzj tum whbdy d img   
+78808,A Iv inj ra drug dx study   
+78811, A Pet image ltd area   
+78811,C Pet image ltd area  
+78811,TC C Pet image ltd area  
+78812, A Pet image skullthigh   
+78812,C Pet image skullthigh  
+78812,TC C Pet image skullthigh  
+78813, A Pet image full body   
+78813,C Pet image full body  
+78813,TC C Pet image full body  
+78814, A Pet image wct lmtd   
+78814,C Pet image wct lmtd  
+78814,TC C Pet image wct lmtd  
+78815, A Pet image wct skullthigh   
+78815,C Pet image wct skullthigh  
+78815,TC C Pet image wct skullthigh  
+78816, A Pet image wct full body   
+78816,C Pet image wct full body  
+78816,TC C Pet image wct full body  
+78830,A Rp loclzj tum spect wct    
+78830, A Rp loclzj tum spect wct    
+78830,TC A Rp loclzj tum spect wct    
+78831,A Rp loclzj tum spect  areas   
+78831, A Rp loclzj tum spect  areas   
+78831,TC A Rp loclzj tum spect  areas   
+78832,A Rp loclzj tum spect wct    
+78832, A Rp loclzj tum spect wct    
+78832,TC A Rp loclzj tum spect wct    
+78835,A Rp quan meas single area   
+Page 4, of 
+CPT Co,de Modifier Status Description
+2022,nan
+Paymen,t
+Rate,nan
+2023,nan
+Paymen,t
+Rate,nan
+Change,in
+Paymen,t
+Rate,nan
+78835, A Rp quan meas single area   
+78835,TC A Rp quan meas single area   
+78999,C Unlisted misc px dx nuc med  
+78999, C Unlisted misc px dx nuc med  
+78999,TC C Unlisted misc px dx nuc med  
+79005,A Nuclear rx oral admin   
+79005, A Nuclear rx oral admin   
+79005,TC A Nuclear rx oral admin   
+79101,A Nuclear rx iv admin   
+79101, A Nuclear rx iv admin   
+79101,TC A Nuclear rx iv admin   
+79200,A Nuclear rx intracav admin   
+79200, A Nuclear rx intracav admin   
+79200,TC A Nuclear rx intracav admin   
+79300, A Nuclr rx interstit colloid   
+79300,C Nuclr rx interstit colloid  
+79300,TC C Nuclr rx interstit colloid  
+79403,A Hematopoietic nuclear tx   
+79403, A Hematopoietic nuclear tx   
+79403,TC A Hematopoietic nuclear tx   
+79440,A Nuclear rx intraarticular   
+79440, A Nuclear rx intraarticular   
+79440,TC A Nuclear rx intraarticular   
+79445, A Nuclear rx intraarterial   
+79445,C Nuclear rx intraarterial  
+79445,TC C Nuclear rx intraarterial  
+79999,C Rp therapy unlisted px  
+79999, C Rp therapy unlisted px  
+79999,TC C Rp therapy unlisted px  
