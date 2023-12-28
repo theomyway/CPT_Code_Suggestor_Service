@@ -1,7 +1,7 @@
 google
 pandas
 openai
-pytorch
+torch
 requests
 flask
 gunicorn
