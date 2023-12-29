@@ -1,6 +1,6 @@
 google
 pandas
-openai
+openai==0.28
 torch
 requests
 flask
